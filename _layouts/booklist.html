@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+{{content}}
+
+{% if page.series %}
+  {% assign books = site.books | where: "series",page.series %}
+{% else %}
+  {% assign books = site.books %}
+{% endif %}
+
+<div>
+  {% for b in books %}
+    {% include bookcard.html book=b %}
+  {% endfor %}
+</div>

@@ -1,0 +1,23 @@
+{% comment %}
+Book card, "book" points to book object
+{% endcomment %}
+
+{% assign b = include.book %}
+
+<div class="card my-3">
+ <div class="container">
+  <div class="row">
+    <div class="col-2 pl-0">
+      <img class="card-img img-fluid" src="{{b.image.path | replace: 'medium', 'small'}}" alt="{{b.title}} borító">
+    </div>
+    <div class="col p-0">
+      <div class="card-body">
+        <h2 class="card-title h5">{{b.title}}</h5>
+        <h3 class="card-subtitle mb-2 text-muted h6">{{b.author}}</h6>
+        <div class="card-text">{{b.description}}</div>
+        <a href="{{b.permalink}}" class="btn btn-primary">Megnyitás</a>
+      </div>
+    </div>
+  </div>
+ </div>
+</div>
