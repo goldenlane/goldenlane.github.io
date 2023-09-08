@@ -5,9 +5,9 @@ layout: page
 {{content}}
 
 {% if page.series %}
-  {% assign books = site.books | where: "series",page.series %}
+  {% assign books = site.books | where: "series",page.series | sort: 'order' %}
 {% else %}
-  {% assign books = site.books %}
+  {% assign books = site.books | sort: 'publication_date' | reverse %}
 {% endif %}
 
 <div>

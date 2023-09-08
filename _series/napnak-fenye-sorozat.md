@@ -1,6 +1,7 @@
 ---
 layout: booklist
 title: Napnak fénye sorozat
+short_title: Napnak fénye
 permalink: /konyvek/napnak-fenye
 series: napnak-fenye
 ---

@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-3">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand mr-1" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -15,17 +15,21 @@
             Sorozatok
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/konyvek/napnak-fenye">Napnak fénye</a>
+            {% for s in site.series %}
+            <a class="dropdown-item" href="{{s.permalink}}">{{s.short_title}}</a>
+            {% endfor %}
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
+          <a class="nav-link disabled" href="#">Patreon novellák</a>
         </li>
       </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
-      </form>
+    </div>
+    <div class="row justify-content-end">
+      <div class="col px-2"><a href="https://hu.wikipedia.org/wiki/Goldman_Júlia"><img class="img-responsive center-block" src="/assets/images/logos/wikipedia.webp" alt="Wikipedia oldal link" width=30px></a></div>
+      <div class="col px-2"><a href="https://moly.hu/alkotok/j-goldenlane"><img class="img-responsive center-block" src="/assets/images/logos/moly.webp" alt="Moly.hu oldal link" width=30px></a></div>
+      <div class="col px-2"><a href="https://www.facebook.com/jgoldenlane"><img class="img-responsive center-block" src="/assets/images/logos/fb.webp" alt="Facebook oldal link" width=30px></a></div>
+      <div class="col px-2"><a href="https://www.patreon.com/goldenlane"><img class="img-responsive center-block" src="/assets/images/logos/patreon.webp" alt="Patreon oldal link" width=30px></a></div>
     </div>
   </div>  
 </nav>
