@@ -108,6 +108,6 @@ $pagination-disabled-border-color:  $pagination-disabled-bg !default;
 
 // Breadcrumbs
 
-$breadcrumb-bg:                     $primary !default;
-$breadcrumb-divider-color:          $white !default;
+$breadcrumb-bg:                     $gray-100 !default;
+$breadcrumb-divider-color:          rgba($primary,.8) !default;
 $breadcrumb-active-color:           $breadcrumb-divider-color !default;

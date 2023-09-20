@@ -232,11 +232,11 @@ legend {
 
 .breadcrumb {
   a {
-    color: $navbar-dark-color;
+    color: $primary;
   }
 
   a:hover {
-    color: $white;
+    color: rgba($primary,.7);
     text-decoration: none;
   }
 }

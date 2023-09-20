@@ -28,37 +28,41 @@
 <meta property="twitter:image" content="{{ page.image.path | default: site.defaultimage.path | absolute_url }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 
+
 <script type="application/ld+json">
 {
    "@context":"https://schema.org",
    "@graph":[
-    {% for item in page.json_ld_items %}
-      
-      {% if item.type == "Book" %}
+    {% if page.breadcrumb %}
+    {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+        {% if page.breadcrumb=='book' or page.breadcrumb=='series' %}
         {
-
-              "@type": "Book",
-              "@id": "https://example.com/work/the_catcher_in_the_rye",
-              "url": "https://example.com/work/the_catcher_in_the_rye",
-              "name": "The Catcher in the Rye",
-              "author": {
-                "@type": "Person",
-                "name": "J.D. Salinger"
-              },
-              "sameAs": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
-              "workExample": [
-                {
-                  "@type": "Book",
-                  "@id": "https://example.com/edition/the_catcher_in_the_rye_paperback",
-                  "isbn": "9787543321724",
-                  "bookEdition": "Mass Market Paperback",
-                  "bookFormat": "https://schema.org/Paperback",
-                  "inLanguage": "en",
-                }
-              ]
-           }
-      {% endif %}
-    {% endfor %}
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Könyvek",
+            "item": "{{'/konyvek' | absolute_url }}"
+        },
+          {% if page.breadcrumb=='book' %}
+          {% assign spage = site.series | where_exp: "item", "item.series contains page.series" | first %}
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{spage.title}}",
+            "item": "{{spage.url | absolute_url}}"
+          },
+          {% endif %}
+        {
+            "@type": "ListItem",
+            "position": {% if page.breadcrumb=='book' %}3{% else %}2{% endif %},
+            "name": "{{page.title}}",
+            "item": "{{page.url | absolute_url}}"
+        }
+        {% endif %}
+        ]
+    }
+    {% endif %}
    ]
 }
 </script>

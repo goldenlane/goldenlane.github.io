@@ -52,6 +52,11 @@ defaults:
       layout: "page"
   -
     scope:
-      path: "books"
+      path: "_books"
     values:
-      breadcrumb: konyvek
+      breadcrumb: book
+  -
+    scope:
+      path: "_series"
+    values:
+      breadcrumb: series
