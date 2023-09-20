@@ -5,7 +5,7 @@ author: J. Goldenlane
 permalink: /konyvek/a-szelhamos-es-a-varazslo
 publication_date: 2001
 image: 
- path: /assets/images/a-szelhamos-es-a-varazslo/szelhamos_0_medium.png
+ path: /assets/images/a-szelhamos-es-a-varazslo/szelhamos_0_medium.jpg
  height: 560
  width: 350
  alt: A Szélhámos és a varázsló

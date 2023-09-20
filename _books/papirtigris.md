@@ -7,7 +7,7 @@ publication_date: 2002
 image: 
  path: /assets/images/papirtigris/papirtigris_0_medium.jpg
  height: 500
- width: 333
+ width: 313
  alt: Papírtigris
 description: '<p>Végy egy hercegnőt! (Aki szerint a tudás nem való fiatal lányoknak, mert megfájdítja a fejüket, és feldagasztja az arcuk.)<br>
 Veszítsd el egy idegen nagyvárosban! (Ahol égig érnek a kőből rakott tornyok, és mindig virágillatú szél jár a csatornák felett.)[...]</p>'

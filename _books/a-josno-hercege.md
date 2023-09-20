@@ -9,7 +9,7 @@ publication_date: 2003
 image: 
  path: /assets/images/a-josno-hercege/josno_0_medium.jpg
  height: 500
- width: 333
+ width: 313
  alt: A jósnő hercege
 description: '<p>Az elszánt kultúrantropológus kalandjai folytatódnak! [...]</p>'
 long_description: '<p>Az elszánt kultúrantropológus kalandjai folytatódnak!</p>

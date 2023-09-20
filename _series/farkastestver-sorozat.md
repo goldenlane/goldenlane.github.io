@@ -5,5 +5,5 @@ short_title: Farkastestvér
 permalink: /konyvek/farkastestver
 series: farkastestver
 ---
-Blablabla...
+A Farkastestvér világában játszódó művek
 ## A sorozatban megjelent művek

@@ -7,9 +7,9 @@ series: napnak-fenye
 order: 2
 publication_date: 2015
 image: 
- path: /assets/images/holdnak-arnyeka/hold_0_medium.png
- height: 560
- width: 350
+ path: /assets/images/holdnak-arnyeka/holdnak_0_medium.jpg
+ height: 500
+ width: 333
  alt: Holdnak árnyéka
 description: '<p>Mindenkit lemészárolok! Ez volt az írói alapkoncepció, mert már régóta szerettem volna írni egy olyan rettenetesen komoly mélylélektani művet, amit egyetlen szereplő sem él túl.</p>
 <p>Sajnos nem sikerült. A hősök pokoli elszántan küzdöttek az életükért. [...]</p>'

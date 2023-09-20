@@ -7,7 +7,7 @@ publication_date: 2005
 image: 
  path: /assets/images/ejfel/ejfel_0_medium.jpg
  height: 500
- width: 333
+ width: 313
  alt: Éjfél
 description: '<p>A ​halandók, akik folyton az öröklétről ábrándoznak, vajon belegondolnak-e abba, hogy a végtelen időnek önmagában semmilyen értéke sincsen? Annak, akinek régi barátja a halál, és akit a megsemmisülés pillanata néha jobban vonz, mint taszít, felfoghatatlanul mást jelent a pillanatok múlása. Eredendően máshogy látja tőle önmagát, a világot... a prédát és a vadászat kiteljesedését is. [...]</p>'
 long_description: '<p>A ​halandók, akik folyton az öröklétről ábrándoznak, vajon belegondolnak-e abba, hogy a végtelen időnek önmagában semmilyen értéke sincsen? Annak, akinek régi barátja a halál, és akit a megsemmisülés pillanata néha jobban vonz, mint taszít, felfoghatatlanul mást jelent a pillanatok múlása. Eredendően máshogy látja tőle önmagát, a világot... a prédát és a vadászat kiteljesedését is.</p>

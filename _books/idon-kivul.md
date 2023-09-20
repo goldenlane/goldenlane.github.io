@@ -9,7 +9,7 @@ publication_date: 2023
 image: 
  path: /assets/images/idon-kivul/idon_0_medium.jpg
  height: 500
- width: 333
+ width: 325
  alt: Időn kívül
 description: '</p>„De ha él, hát él, ha pedig él, akkor játszik. Mert amíg nem hal meg, addig a játék megy tovább!” [...]</p>'
 long_description: '</p>„De ha él, hát él, ha pedig él, akkor játszik. Mert amíg nem hal meg, addig a játék megy tovább!”</p>

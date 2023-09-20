@@ -9,7 +9,7 @@ publication_date: 2023
 image: 
  path: /assets/images/idoben/idoben_0_medium.jpg
  height: 500
- width: 333
+ width: 325
  alt: Időben
 description: '<p>„Tudom, hol vannak a határok, és azt is, hogy legtöbbet átléphetem.” [...]</p>'
 long_description: '<p>„Tudom, hol vannak a határok, és azt is, hogy legtöbbet átléphetem.”</p>

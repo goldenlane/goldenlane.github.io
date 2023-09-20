@@ -7,9 +7,9 @@ order: 1
 permalink: /konyvek/josido/a-herceg-josnoje
 publication_date: 2003
 image: 
- path: /assets/images/a-josno-hercege/herceg_0_medium.jpg
+ path: /assets/images/a-herceg-josnoje/herceg_0_medium.jpg
  height: 500
- width: 333
+ width: 313
  alt: A herceg jósnője
 description: '<p>"Mi ne létezhetne egy világban, ahol egyes őrültek íjjal felszerelve vadásznak a mit sem sejtő kultúrantropológusra?"</p>'
 long_description: '<p>"Mi ne létezhetne egy világban, ahol egyes őrültek íjjal felszerelve vadásznak a mit sem sejtő kultúrantropológusra?"</p>
