@@ -1,0 +1,52 @@
+{% comment %}
+Include a carousel of images from 'folder'.
+{% endcomment %}
+
+{% assign img_height = 500 %}
+
+{% if include.height %}
+  {% assign img_height = include.height %}
+{% endif %}
+
+{% assign style = "max-width:100%; object-fit:contain;" %}
+
+
+{% assign images = site.static_files | where_exp: "item", "item.path contains include.folder" | where_exp: "item", "item.path contains 'medium'"%}
+{% for image in images %}
+  {% capture no_images %}{{ forloop.length }}{% endcapture %}
+{% endfor %}
+
+{% if no_images=="1" %}
+  {% for file in images %}
+    <img src="{{file.path}}" class="img-fluid" />
+  {% endfor %}
+{% else %}
+<div id="carousel" class="carousel slide bg-dark m-0 p-0" data-ride="carousel" width=350 height=500>
+  <ol class="carousel-indicators">
+    {% for i in (1..no_images) %}
+    <li data-target="#carousel" data-slide-to="{{ i | minus:1 }}" {% if forloop.first %}class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner p-0 m-0" height=500>
+    {% assign first = true %}
+    {% for file in images %}
+      {% if file.path contains include.folder %}
+        <div class="carousel-item {%if first %}active {% assign first = false %}{% endif %}" style="background-color:#000;">
+        <center>
+          <img src="{{file.path}}" class="d-block" height={{img_height}} style="max-width:100%; object-fit:contain;"  alt="Borító {{i}}"}>
+          </center>
+        </div>
+      {% endif %}  
+    {% endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Előző</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Következő</span>
+  </a>
+</div>
+
+{% endif %}
