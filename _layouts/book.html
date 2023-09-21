@@ -27,5 +27,28 @@ layout: page
   </div>
 </div>
 <div class="container">
+  <div class="breadcrumb my-2 p-2">
+    <span class="align-text-middle ml-2"><i style="font-size:1.25rem;">Ha tetszett a mű, értékeld online, hogy máshoz is eljusson a híre!</i>
+    {% if page.socials %}
+      {% for s in page.socials %}
+        <a href="{{s.link}}"><img class="img-responsive center-block ml-3" src="/assets/images/logos/{{s.title}}.webp" alt="{{s.title}} link" height=30px></a>
+      {% endfor %}
+    {% endif %}
+    </span>
+  </div>
+</div>
+{% if page.stores %}
+<div class="container mt-4">
+  <h2 class="h3">Vásárlás</h2>
+  <div class="row">
+    {% for s in page.stores %}
+      <div class="col-md-2 col-sm-6 col-xs-12">
+        <a href="{{s.link}}"><img class="img-responsive center-block ml-3" src="/assets/images/logos/{{s.title}}.webp" alt="{{s.title}} link" height=50px></a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+<div class="container mt-4">
 {{page.content}}
 </div>  

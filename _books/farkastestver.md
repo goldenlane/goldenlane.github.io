@@ -11,6 +11,22 @@ image:
  height: 500
  width: 333
  alt: Farkastestvér
+socials:
+ - 
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16270540-farkastestv-r
+ - 
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-farkastestver
+stores:
+ - 
+  title: Libri
+  type: second-hand
+  link: https://www.libri.hu/muleiras/?sl_l_id=64173
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-farkastestver/elado-peldanyok
 description: '<p>Vérfarkasnak ​lenni nem egyszerű.<br>
 Különösen, ha az ember fia lánynak születik.<br>[...]</p>'
 long_description: '<p>Vérfarkasnak ​lenni nem egyszerű.<br>
