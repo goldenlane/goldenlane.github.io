@@ -42,6 +42,8 @@ collections:
     output: true
   series:
     output: true
+  patreonNovels:
+    output: false
 
 defaults:
   - 
