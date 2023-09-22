@@ -4,6 +4,17 @@ title: Csillagfény
 author: J. Goldenlane
 permalink: /konyvek/csillagfeny
 publication_date: 2003-3
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16270547-csillagf-ny
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-csillagfeny
+stores:
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-csillagfeny/elado-peldanyok
 image: 
  path: /assets/images/csillagfeny/csillagfeny_0_medium.jpg
  height: 500

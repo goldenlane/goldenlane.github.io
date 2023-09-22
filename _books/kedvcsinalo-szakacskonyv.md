@@ -4,6 +4,15 @@ title: Kedvcsináló ​szakácskönyv
 author: Balogh Diána, J. Goldenlane
 permalink: /konyvek/kedvcsinalo-szakacskonyv
 publication_date: 2008-1
+socials:
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/balogh-diana-j-goldenlane-kedvcsinalo-szakacskonyv
+stores:
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/balogh-diana-j-goldenlane-kedvcsinalo-szakacskonyv/elado-peldanyok
 image: 
  path: /assets/images/kedvcsinalo-szakacskonyv/kedvcsinalo_0_medium.jpg
  height: 500

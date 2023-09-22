@@ -6,6 +6,22 @@ series: isteni-balhe
 order: 2
 permalink: /konyvek/isteni-balhe/pokoli-balhe
 publication_date: 2004-1
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16248384-pokoli-balh
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-pokoli-balhe
+stores:
+ -
+  title: Lira
+  type: new
+  link: https://www.lira.hu/hu/konyv/szepirodalom/sci-fi-fantasy-krimi/pokoli-balhe-1
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-pokoli-balhe/elado-peldanyok
 image: 
  path: /assets/images/pokoli-balhe/pokoli_0_medium.jpg
  height: 500

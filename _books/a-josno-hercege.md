@@ -6,6 +6,26 @@ series: josido
 order: 2
 permalink: /konyvek/josido/a-josno-hercege
 publication_date: 2003-2
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16270990-a-j-sn-hercege
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-a-herceg-josnoje
+stores:
+ -
+  title: DesignKiadoEbook
+  type: ebook
+  link: https://designkiado.hu/konyv/a-josno-hercege/
+ -
+  title: Libri
+  type: second-hand
+  link: https://www.libri.hu/muleiras/?sl_l_id=233655
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-a-josno-hercege/elado-peldanyok
 image: 
  path: /assets/images/a-josno-hercege/josno_0_medium.jpg
  height: 500

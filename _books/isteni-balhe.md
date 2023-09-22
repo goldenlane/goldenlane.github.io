@@ -6,6 +6,18 @@ series: isteni-balhe
 order: 1
 permalink: /konyvek/isteni-balhe/isteni-balhe
 publication_date: 2001-2
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16248416-isteni-balh
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-isteni-balhe
+stores:
+ - 
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-isteni-balhe/elado-peldanyok
 image: 
  path: /assets/images/isteni-balhe/isteni_0_medium.jpg
  height: 500

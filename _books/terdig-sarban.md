@@ -6,6 +6,18 @@ series: napnak-fenye
 order: 4
 permalink: /konyvek/napnak-fenye/terdig-sarban
 publication_date: 2019-1
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/50354599-t-rdig-s-rban
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-terdig-sarban
+stores:
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-terdig-sarban/elado-peldanyok
 image: 
  path: /assets/images/terdig-sarban/terdig_0_medium.jpg
  height: 500

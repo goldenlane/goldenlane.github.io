@@ -6,6 +6,15 @@ series: josido
 order: 4
 permalink: /konyvek/josido/idon-kivul
 publication_date: 2023-2
+socials:
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-idon-kivul
+stores:
+ -
+  title: DesignKiado
+  type: new
+  link: https://designkiado.hu/konyv/idon-kivul/
 image: 
  path: /assets/images/idon-kivul/idon_0_medium.jpg
  height: 500

@@ -4,6 +4,22 @@ title: Papírtigris
 author: J. Goldenlane
 permalink: /konyvek/papirtigris
 publication_date: 2002-2
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16248089-pap-rtigris
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-papirtigris
+stores:
+ -
+  title: GoogleBooks
+  type: ebook
+  link: https://www.google.co.uk/books/edition/Pap%C3%ADrtigris/uFXqDwAAQBAJ
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-papirtigris/elado-peldanyok
 image: 
  path: /assets/images/papirtigris/papirtigris_0_medium.jpg
  height: 500

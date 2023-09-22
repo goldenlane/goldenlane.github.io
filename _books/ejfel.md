@@ -4,6 +4,30 @@ title: Éjfél
 author: J. Goldenlane
 permalink: /konyvek/ejfel
 publication_date: 2005-1
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/16270537-jf-l
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-ejfel
+stores:
+ -
+  title: GoogleBooks
+  type: ebook
+  link: https://www.google.co.uk/books/edition/%C3%89jf%C3%A9l/1VvaDwAAQBAJ
+ -
+  title: LibriEbook
+  type: ebook
+  link: https://www.libri.hu/konyv/goldenlane_j_175584.ejfel--2.html
+ -
+  title: Alexandra
+  type: new
+  link: https://alexandra.hu/konyv/fantasy/delta-vision-kiado/j-goldenlane/ejfel
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-ejfel/elado-peldanyok
 image: 
  path: /assets/images/ejfel/ejfel_0_medium.jpg
  height: 500

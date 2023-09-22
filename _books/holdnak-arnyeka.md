@@ -6,6 +6,22 @@ permalink: /konyvek/napnak-fenye/holdnak-arnyeka
 series: napnak-fenye
 order: 2
 publication_date: 2015-2
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/28054796-holdnak-rny-ka
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-holdnak-arnyeka
+stores:
+ -
+  title: Lira
+  type: new
+  link: https://www.lira.hu/hu/konyv/szepirodalom/sci-fi-fantasy-krimi/holdnak-arnyeka
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-holdnak-arnyeka/elado-peldanyok
 image: 
  path: /assets/images/holdnak-arnyeka/holdnak_0_medium.jpg
  height: 500

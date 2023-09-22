@@ -6,6 +6,15 @@ series: josido
 order: 3
 permalink: /konyvek/josido/idoben
 publication_date: 2023-1
+socials:
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-idoben
+stores:
+ -
+  title: DesignKiado
+  type: new
+  link: https://designkiado.hu/konyv/idoben/
 image: 
  path: /assets/images/idoben/idoben_0_medium.jpg
  height: 500

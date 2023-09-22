@@ -6,6 +6,18 @@ series: napnak-fenye
 order: 1
 permalink: /konyvek/napnak-fenye/napnak-fenye
 publication_date: 2015-1
+socials:
+ -
+  title: Goodreads
+  link: https://www.goodreads.com/book/show/25805976-napnak-f-nye
+ -
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-napnak-fenye
+stores:
+ -
+  title: Moly
+  type: second-hand
+  link: https://moly.hu/konyvek/j-goldenlane-napnak-fenye/elado-peldanyok
 image: 
  path: /assets/images/napnak-fenye/napnak_0_medium.jpg
  height: 500
