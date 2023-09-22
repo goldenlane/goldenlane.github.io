@@ -8,7 +8,7 @@ Book card, "book" points to book object
  <div class="container">
   <div class="row">
     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-5 pl-0">
-      <img class="card-img img-fluid" src="{{b.image.path | replace: 'medium', 'small'}}" alt="{{b.title}} borító">
+      <img class="card-img img-fluid" src="{{b.image.path | replace: 'medium', 'small'}}" sizes="(max-width: 480px) 500px, 250px" srcset="{{b.image.path}} 500w, {{b.image.path | replace: 'medium', 'small'}} 250w" alt="{{b.title}} borító">
     </div>
     <div class="col p-0">
       <div class="card-body">
