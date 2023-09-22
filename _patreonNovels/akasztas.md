@@ -1,5 +1,5 @@
 ---
-title: Egy pohár ital mellett
+title: Akasztás
 date: 2021-02-17
 link: https://www.patreon.com/posts/akasztas-47666611
 ---
