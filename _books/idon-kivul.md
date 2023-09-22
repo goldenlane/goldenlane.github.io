@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: josido
 order: 4
 permalink: /konyvek/josido/idon-kivul
-publication_date: 2023
+publication_date: 2023-2
 image: 
  path: /assets/images/idon-kivul/idon_0_medium.jpg
  height: 500

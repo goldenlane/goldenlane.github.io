@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: napnak-fenye
 order: 1
 permalink: /konyvek/napnak-fenye/napnak-fenye
-publication_date: 2015
+publication_date: 2015-1
 image: 
  path: /assets/images/napnak-fenye/napnak_0_medium.jpg
  height: 500

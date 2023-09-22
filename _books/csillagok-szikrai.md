@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: napnak-fenye
 order: 3
 permalink: /konyvek/napnak-fenye/csillagok-szikrai
-publication_date: 2016
+publication_date: 2016-1
 image: 
  path: /assets/images/csillagok-szikrai/csillagok_0_medium.jpg
  height: 500

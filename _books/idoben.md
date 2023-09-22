@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: josido
 order: 3
 permalink: /konyvek/josido/idoben
-publication_date: 2023
+publication_date: 2023-1
 image: 
  path: /assets/images/idoben/idoben_0_medium.jpg
  height: 500

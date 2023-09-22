@@ -3,7 +3,7 @@ layout: book
 title: Városi történet
 author: J. Goldenlane
 permalink: /konyvek/varosi-tortenet
-publication_date: 2022
+publication_date: 2022-1
 image: 
  path: /assets/images/varosi-tortenet/varosi_0_medium.jpg
  height: 500

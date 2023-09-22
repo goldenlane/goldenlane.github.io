@@ -3,7 +3,7 @@ layout: book
 title: A szélhámos és a varázsló
 author: J. Goldenlane
 permalink: /konyvek/a-szelhamos-es-a-varazslo
-publication_date: 2001
+publication_date: 2001-1
 image: 
  path: /assets/images/a-szelhamos-es-a-varazslo/szelhamos_0_medium.jpg
  height: 560

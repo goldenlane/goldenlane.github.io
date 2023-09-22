@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: josido
 order: 1
 permalink: /konyvek/josido/a-herceg-josnoje
-publication_date: 2003
+publication_date: 2003-1
 image: 
  path: /assets/images/a-herceg-josnoje/herceg_0_medium.jpg
  height: 500

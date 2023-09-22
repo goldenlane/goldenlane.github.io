@@ -3,7 +3,7 @@ layout: book
 title: Csillagfény
 author: J. Goldenlane
 permalink: /konyvek/csillagfeny
-publication_date: 2003
+publication_date: 2003-3
 image: 
  path: /assets/images/csillagfeny/csillagfeny_0_medium.jpg
  height: 500

@@ -3,7 +3,7 @@ layout: book
 title: Éjfél
 author: J. Goldenlane
 permalink: /konyvek/ejfel
-publication_date: 2005
+publication_date: 2005-1
 image: 
  path: /assets/images/ejfel/ejfel_0_medium.jpg
  height: 500

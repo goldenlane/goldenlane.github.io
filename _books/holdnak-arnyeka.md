@@ -5,7 +5,7 @@ author: J. Goldenlane
 permalink: /konyvek/napnak-fenye/holdnak-arnyeka
 series: napnak-fenye
 order: 2
-publication_date: 2015
+publication_date: 2015-2
 image: 
  path: /assets/images/holdnak-arnyeka/holdnak_0_medium.jpg
  height: 500

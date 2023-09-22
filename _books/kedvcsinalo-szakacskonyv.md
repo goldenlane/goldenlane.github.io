@@ -3,7 +3,7 @@ layout: book
 title: Kedvcsináló ​szakácskönyv
 author: Balogh Diána, J. Goldenlane
 permalink: /konyvek/kedvcsinalo-szakacskonyv
-publication_date: 2008
+publication_date: 2008-1
 image: 
  path: /assets/images/kedvcsinalo-szakacskonyv/kedvcsinalo_0_medium.jpg
  height: 500

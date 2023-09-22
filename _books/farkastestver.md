@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: farkastestver
 order: 1
 permalink: /konyvek/farkastestver/farkastestver
-publication_date: 2002
+publication_date: 2002-1
 image: 
  path: /assets/images/farkastestver/farkastestver_0_medium.jpg
  height: 500

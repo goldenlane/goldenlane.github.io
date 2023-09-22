@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: napnak-fenye
 order: 4
 permalink: /konyvek/napnak-fenye/terdig-sarban
-publication_date: 2019
+publication_date: 2019-1
 image: 
  path: /assets/images/terdig-sarban/terdig_0_medium.jpg
  height: 500

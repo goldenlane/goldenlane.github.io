@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: isteni-balhe
 order: 2
 permalink: /konyvek/isteni-balhe/pokoli-balhe
-publication_date: 2004
+publication_date: 2004-1
 image: 
  path: /assets/images/pokoli-balhe/pokoli_0_medium.jpg
  height: 500

@@ -5,7 +5,7 @@ author: J. Goldenlane
 series: isteni-balhe
 order: 1
 permalink: /konyvek/isteni-balhe/isteni-balhe
-publication_date: 2001
+publication_date: 2001-2
 image: 
  path: /assets/images/isteni-balhe/isteni_0_medium.jpg
  height: 500

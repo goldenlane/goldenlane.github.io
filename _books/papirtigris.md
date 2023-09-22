@@ -3,7 +3,7 @@ layout: book
 title: Papírtigris
 author: J. Goldenlane
 permalink: /konyvek/papirtigris
-publication_date: 2002
+publication_date: 2002-2
 image: 
  path: /assets/images/papirtigris/papirtigris_0_medium.jpg
  height: 500
