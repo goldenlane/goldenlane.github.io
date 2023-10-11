@@ -5,16 +5,6 @@ layout: page
 {% assign filepath = page.image.path | split: "/" %}
 {% assign folderpath = page.image.path | remove: filepath.last%}
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/konyvek">Könyvek</a></li>
-    {% if page.series %}
-        {% assign spage = site.series | where_exp: "item", "item.series contains page.series" | first %}
-        <li class="breadcrumb-item"><a href="/konyvek/{{page.series}}">{{spage.title}}</a></li>
-    {% endif %}
-    <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
-  </ol>
-</nav>
 
 <div class="container">
   <div class="row">

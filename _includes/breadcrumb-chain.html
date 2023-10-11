@@ -1,0 +1,57 @@
+{% comment %}
+Recursive chain on permalink. If include.return = link, it returns with links to parents, otherwise it retuns with titles. Separator: include.sep
+{% endcomment %}
+
+{% if include.sep %}
+    {% assign sep = include.sep %}
+{% else %}
+    {% assign sep= '|' %}
+{% endif %}
+
+
+{% assign currentPage = page %}
+{% assign chainT = "" %}
+{% assign chainL = "" %}
+
+{% assign maxDepth = 10 %}
+
+{% assign chainT = chainT | append: currentPage.title | append: sep %}
+{% assign chainL = chainL | append: currentPage.permalink | append: sep %}
+{% for i in (1..maxDepth) %}
+
+    {% assign permalink = currentPage.permalink | split: '/' %}
+    {% assign parent_index = permalink | size | minus: 1 %}
+
+    {% if parent_index >= 0 %}
+        {% assign parentLink = permalink | slice: 0, parent_index | join: '/' %}
+    {% else %}
+        {% assign parentLink = '/' %}
+    {% endif %}
+    
+    {% if parentLink %}
+        {% assign parentPage = site.pages | where: "permalink", parentLink | first %}
+        {% if parentPage == nil %}
+            {% for collection in site.collections %}{% if collection.output %}{% for p in site[collection.label] %}
+                {% if p.permalink == parentLink %}
+                    {% assign chainT = chainT | append: p.title | append: sep %}
+                    {% assign chainL = chainL | append: p.permalink | append: sep %}
+                    {% assign currentPage = p %}
+                {% endif %}
+            {% endfor %}{% endif %}{% endfor %}
+        {% else %}
+            {% assign chainT = chainT | append: parentPage.title | append: sep %}
+            {% assign chainL = chainL | append: parentPage.permalink | append: sep %}
+            {% assign currentPage = parentPage %}
+        {% endif %}
+    {% else %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% if include.return == 'link' %}
+    {% assign chainL = chainL | split: sep%}
+    {{ chainL | reverse | join: sep }}
+{% else %}
+    {% assign chainT = chainT | split: sep%}
+    {{ chainT | reverse | join: sep }}
+{% endif %}

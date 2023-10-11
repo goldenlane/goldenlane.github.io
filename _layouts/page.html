@@ -5,6 +5,31 @@ layout: default
 
   <h1>{{ page.title | escape }}</h1>
 
+{% assign sep='|' %}
+{% if page.breadcrumb %}
+    {% capture titles %}
+        {% include breadcrumb-chain.html sep=sep %}
+    {% endcapture %}
+    {% assign titles = titles | split: sep%}
+    {% capture links %}
+        {% include breadcrumb-chain.html return='link' sep=sep %}
+    {% endcapture %}
+    {% assign links = links | split: sep%}
+    
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    {% assign length = titles.size | minus: 1 %}
+    {% for index in (0..length) %}
+        {% if forloop.last %}
+            <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+        {% else %}
+            <li class="breadcrumb-item"><a href="{{links[index]}}">{{titles[index]}}</a></li>
+        {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
   <section>
     {{ content }}
   </section>

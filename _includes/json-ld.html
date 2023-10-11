@@ -34,32 +34,26 @@
    "@context":"https://schema.org",
    "@graph":[
     {% if page.breadcrumb %}
+        {% capture titles %}
+            {% include breadcrumb-chain.html sep=sep %}
+        {% endcapture %}
+        {% assign titles = titles | split: sep%}
+        {% capture links %}
+            {% include breadcrumb-chain.html return='link' sep=sep %}
+        {% endcapture %}
+        {% assign links = links | split: sep%}
     {
         "@type": "BreadcrumbList",
         "itemListElement": [
-        {% if page.breadcrumb=='book' or page.breadcrumb=='series' %}
+        {% assign length = titles.size | minus: 1 %}
+        {% for index in (0..length) %}
         {
             "@type": "ListItem",
-            "position": 1,
-            "name": "Könyvek",
-            "item": "{{'/konyvek' | absolute_url }}"
-        },
-          {% if page.breadcrumb=='book' %}
-          {% assign spage = site.series | where_exp: "item", "item.series contains page.series" | first %}
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "{{spage.title}}",
-            "item": "{{spage.url | absolute_url}}"
-          },
-          {% endif %}
-        {
-            "@type": "ListItem",
-            "position": {% if page.breadcrumb=='book' %}3{% else %}2{% endif %},
-            "name": "{{page.title}}",
-            "item": "{{page.url | absolute_url}}"
-        }
-        {% endif %}
+            "position": {{index | plus: 1}},
+            "name": "{{titles[index] | strip}}",
+            "item": "{{links[index] | strip | absolute_url}}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
         ]
     }
     {% endif %}

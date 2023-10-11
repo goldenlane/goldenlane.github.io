@@ -52,13 +52,16 @@ defaults:
     values:
       lang: "hu" 
       layout: "page"
-  -
+      breadcrumb: false
+  - 
     scope:
-      path: "_books"
+      path: "_books" # an empty string here means all files in the project
     values:
-      breadcrumb: book
-  -
+      layout: "book"
+      breadcrumb: true
+  - 
     scope:
-      path: "_series"
+      path: "_series" # an empty string here means all files in the project
     values:
-      breadcrumb: series
+      layout: "booklist"
+      breadcrumb: true
