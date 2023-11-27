@@ -10,6 +10,11 @@ layout: page
   <div class="row">
     <div class="col-xl-8 col-md-6 col-sm-12 mx-0 py-4 px-3">
       <div>{{page.long_description}}</div>
+      {% assign current_permalink = page.permalink %}
+      {% assign preview = site.previews | where_exp: "preview", "preview.permalink contains current_permalink" | first %}
+      {% if preview %}
+      <a href="{{preview.permalink}}" class="btn btn-primary">Beleolvasok</a>
+      {% endif %}
     </div>
     <div class="col-xl-4 col-md-6 col-sm-12 mx-0 py-4 px-3">
       {% include carousel.html folder=folderpath%}

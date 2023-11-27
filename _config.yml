@@ -44,6 +44,8 @@ collections:
     output: true
   patreonNovels:
     output: false
+  previews:
+    output: true
 
 defaults:
   - 
@@ -55,13 +57,18 @@ defaults:
       breadcrumb: false
   - 
     scope:
-      path: "_books" # an empty string here means all files in the project
+      path: "_books"
     values:
       layout: "book"
       breadcrumb: true
   - 
     scope:
-      path: "_series" # an empty string here means all files in the project
+      path: "_series"
     values:
       layout: "booklist"
+      breadcrumb: true
+  - 
+    scope:
+      path: "_previews" 
+    values:
       breadcrumb: true
