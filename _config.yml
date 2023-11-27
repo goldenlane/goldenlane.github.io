@@ -71,4 +71,5 @@ defaults:
     scope:
       path: "_previews" 
     values:
+      layout: "reader"
       breadcrumb: true
