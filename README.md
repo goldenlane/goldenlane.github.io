@@ -41,3 +41,13 @@ Creating a new folder from a browser is not straightforward. Let's say we want t
 1. Inside the picture folder create a new file and name it `banana/temporary`. As you create the file, GitHub will recognize that here the part before the `/` is a folder.
 2. Add pictures to the newly created folder.
 3. Remove `temporary` file.
+
+## Collections
+
+Add new books in `_books/`.
+
+Update series in `_series/`.
+
+Add preview/read-in in `_previews/`.
+
+Follow the metadata structure of existing examples (eg. `permalink` should be: `konyvek/<series-name>/<book-name>/beleolvaso` to match the internal links between pages correctly)
