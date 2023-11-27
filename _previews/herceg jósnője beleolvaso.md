@@ -1,3 +1,8 @@
+---
+title: Beleolvasó
+permalink: /konyvek/josido/a-herceg-josnoje/beleolvaso
+---
+
 ##    J. Goldenlane: A herceg jósnője
 
 ###    I.
