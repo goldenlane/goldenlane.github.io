@@ -19,6 +19,10 @@ stores:
   type: ebook
   link: https://designkiado.hu/konyv/a-josno-hercege/
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/a-josno-hercege-2020/
+ -
   title: Libri
   type: second-hand
   link: https://www.libri.hu/muleiras/?sl_l_id=233655

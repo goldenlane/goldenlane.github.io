@@ -17,6 +17,10 @@ stores:
   type: ebook
   link: https://www.google.co.uk/books/edition/%C3%89jf%C3%A9l/1VvaDwAAQBAJ
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/ejfel/
+ -
   title: LibriEbook
   type: ebook
   link: https://www.libri.hu/konyv/goldenlane_j_175584.ejfel--2.html

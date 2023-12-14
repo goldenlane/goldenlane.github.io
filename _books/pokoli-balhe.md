@@ -15,6 +15,10 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-pokoli-balhe
 stores:
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/pokoli-balhe-3613/
+ -
   title: Lira
   type: new
   link: https://www.lira.hu/hu/konyv/szepirodalom/sci-fi-fantasy-krimi/pokoli-balhe-1

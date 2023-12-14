@@ -19,6 +19,10 @@ socials:
   title: Moly
   link: https://moly.hu/konyvek/j-goldenlane-farkastestver
 stores:
+ -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/farkastestver/
  - 
   title: Libri
   type: second-hand

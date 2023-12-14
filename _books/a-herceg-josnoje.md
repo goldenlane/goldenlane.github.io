@@ -18,8 +18,13 @@ stores:
   title: DesignKiadoEbook
   type: ebook
   link: https://designkiado.hu/konyv/a-herceg-josnoje/
+ -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/a-herceg-josnoje-2020/
  - 
   title: Moly
+  type: second-hand
   link: https://moly.hu/konyvek/j-goldenlane-a-herceg-josnoje/elado-peldanyok
 image: 
  path: /assets/images/a-herceg-josnoje/herceg_0_medium.jpg

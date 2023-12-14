@@ -15,6 +15,10 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-napnak-fenye
 stores:
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/napnak-fenye/
+ -
   title: Moly
   type: second-hand
   link: https://moly.hu/konyvek/j-goldenlane-napnak-fenye/elado-peldanyok

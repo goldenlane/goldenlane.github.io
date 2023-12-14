@@ -21,6 +21,10 @@ stores:
   type: ebook
   link: https://www.libri.hu/konyv/goldenlane_j_175584.a-szelhamos-es-a-varazslo--1.html
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/a-szelhamos-es-a-varazslo-4731/
+ -
   title: Libri
   type: second-hand
   link: https://www.libri.hu/muleiras/?sl_l_id=64172

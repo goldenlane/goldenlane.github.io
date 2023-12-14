@@ -15,6 +15,10 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-holdnak-arnyeka
 stores:
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/holdnak-arnyeka/
+ -
   title: Lira
   type: new
   link: https://www.lira.hu/hu/konyv/szepirodalom/sci-fi-fantasy-krimi/holdnak-arnyeka

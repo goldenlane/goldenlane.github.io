@@ -15,6 +15,14 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-csillagok-szikrai
 stores:
  -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/csillagok-szikrai-i/
+ -
+  title: DeltaVision
+  type: new
+  link: http://www.deltavision.hu/csillagok-szikrai-ii/
+ -
   title: Bookline
   type: new
   link: https://bookline.hu/product/home.action?_v=J_Goldenlane_Csillagok_szikrai_I_ko&type=22&id=291183
