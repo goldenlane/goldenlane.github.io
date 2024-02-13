@@ -18,10 +18,6 @@ stores:
   title: DesignKiadoEbook
   type: ebook
   link: https://designkiado.hu/konyv/a-herceg-josnoje/
- -
-  title: DeltaVision
-  type: new
-  link: http://www.deltavision.hu/a-herceg-josnoje-2020/
  - 
   title: Moly
   type: second-hand

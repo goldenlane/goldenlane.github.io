@@ -15,10 +15,6 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-isteni-balhe
 stores:
  - 
-  title: DeltaVision
-  type: new
-  link: http://www.deltavision.hu/isteni-balhe/
- - 
   title: Moly
   type: second-hand
   link: https://moly.hu/konyvek/j-goldenlane-isteni-balhe/elado-peldanyok

@@ -17,10 +17,6 @@ stores:
   type: ebook
   link: https://www.google.co.uk/books/edition/Pap%C3%ADrtigris/uFXqDwAAQBAJ
  -
-  title: DeltaVision
-  type: new
-  link: http://www.deltavision.hu/papirtigris-2017/
- -
   title: Moly
   type: second-hand
   link: https://moly.hu/konyvek/j-goldenlane-papirtigris/elado-peldanyok

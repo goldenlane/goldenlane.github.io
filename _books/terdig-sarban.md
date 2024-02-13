@@ -15,10 +15,6 @@ socials:
   link: https://moly.hu/konyvek/j-goldenlane-terdig-sarban
 stores:
  -
-  title: DeltaVision
-  type: new
-  link: http://www.deltavision.hu/terdig-sarban/
- -
   title: Moly
   type: second-hand
   link: https://moly.hu/konyvek/j-goldenlane-terdig-sarban/elado-peldanyok
