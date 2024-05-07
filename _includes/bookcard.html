@@ -15,7 +15,12 @@ Book card, "book" points to book object
         <h2 class="card-title h5">{{b.title}}</h5>
         <h3 class="card-subtitle mb-2 text-muted h6">{{b.author}}</h6>
         <div class="card-text">{{b.description}}</div>
-        <a href="{{b.permalink}}" class="btn btn-primary">Megnyitás</a>
+        <a href="{{b.permalink}}" class="btn btn-primary m-1">Megnyitás</a>
+        {% assign current_permalink = b.permalink %}
+        {% assign preview = site.previews | where_exp: "preview", "preview.permalink contains current_permalink" | first %}
+        {% if preview %}
+          <a href="{{preview.permalink}}" class="btn btn-primary m-1">Beleolvasó</a>
+        {% endif %}
       </div>
     </div>
   </div>
