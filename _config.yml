@@ -28,6 +28,12 @@ plugins:
   - jekyll-sitemap
 
 
+defaultimage:
+ path: "/assets/images/default_image.png"
+ height: 780
+ width: 405
+ alt: "J. Goldenlane"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
