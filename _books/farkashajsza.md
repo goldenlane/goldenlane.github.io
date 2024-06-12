@@ -12,6 +12,9 @@ image:
  width: 329
  alt: Farkashajsza
 socials:
+ - 
+  title: Moly
+  link: https://moly.hu/konyvek/j-goldenlane-farkashajsza-i-ii
 stores:
  - 
   title: DesignKiado
