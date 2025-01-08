@@ -1,7 +1,7 @@
 ---
 title: Barbár-projekt
 date: 2023-09-18
-link: https://www.patreon.com/posts/robin-hood-72976535
+link: https://www.patreon.com/posts/barbar-projekt-89466330
 ---
 A „Barbár pokol” novellás kötet 2000-ben jelent meg a Cherubionnál. Nem meglepő módon barbáros novellákból áll. 
 
