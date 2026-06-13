@@ -18,6 +18,13 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "github-pages"
 
+# Ruby 3.4 removed these from the default gems; Jekyll 3.9.x still needs them.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "webrick"
+
 group :jekyll_plugins do
  gem "jekyll-seo-tag"
  gem "jekyll-relative-links"
