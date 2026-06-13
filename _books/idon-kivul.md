@@ -15,6 +15,10 @@ stores:
   title: DesignKiado
   type: new
   link: https://designkiado.hu/konyv/idon-kivul/
+ -
+  title: DesignKiadoEbook
+  type: ebook
+  link: https://designkiado.hu/konyv/idon-kivul-97
 image: 
  path: /assets/images/idon-kivul/idon_0_medium.jpg
  height: 500

@@ -21,9 +21,17 @@ stores:
   type: new
   link: https://designkiado.hu/konyv/farkashajsza-i
  -
+  title: DesignKiadoEbook
+  type: ebook
+  link: https://designkiado.hu/konyv/farkashajsza-i-99
+ -
   title: DesignKiado
   type: new
   link: https://designkiado.hu/konyv/farkashajsza-ii
+ -
+  title: DesignKiadoEbook
+  type: ebook
+  link: https://designkiado.hu/konyv/farkashajsza-ii-100
 description: '<p>Végül is miféle tárgyi bizonyíték van a kezemben?<br>
 Mindössze egy körömlakkal rajzolt pentagramma, amit egy nem létező személy készített. Biztosan van rá valami teljesen hétköznapi, tök egyszerű magyarázat, ugye! </p>'
 long_description: 'Végül is miféle tárgyi bizonyíték van a kezemben?<br>

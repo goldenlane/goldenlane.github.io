@@ -15,6 +15,10 @@ stores:
   title: DesignKiado
   type: new
   link: https://designkiado.hu/konyv/idoben/
+ -
+  title: DesignKiadoEbook
+  type: ebook
+  link: https://designkiado.hu/konyv/idoben-98
 image: 
  path: /assets/images/idoben/idoben_0_medium.jpg
  height: 500
