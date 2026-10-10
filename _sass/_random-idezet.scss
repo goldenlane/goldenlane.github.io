@@ -1,0 +1,44 @@
+.random-quote {
+  color: $gray-700;
+
+  &__text {
+    border-left: .25rem solid $primary;
+    padding: 1rem 1.5rem;
+    background-color: $gray-100;
+    color: $gray-700;
+    font-size: 1.375rem;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+
+    p {
+      white-space: pre-wrap;
+    }
+  }
+
+  &__source cite {
+    font-style: normal;
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    margin-bottom: 2rem;
+
+    &[hidden] {
+      display: none;
+    }
+
+    .btn:focus {
+      outline: .1875rem solid $primary;
+      outline-offset: .1875rem;
+    }
+  }
+
+  @media (max-width: 575.98px) {
+    &__text {
+      padding: 1rem;
+      font-size: 1.125rem;
+    }
+  }
+}

@@ -1,0 +1,35 @@
+---
+layout: page
+title: Random idézet
+permalink: /random-idezet
+breadcrumb: false
+description: Véletlen könyvidézet J. Goldenlane műveiből, beleolvasóval.
+---
+
+{% assign first_quote = site.data.quotes | first %}
+<div class="random-quote my-4" id="random-quote">
+  <div id="random-quote-content" aria-live="polite" aria-atomic="true"{% unless first_quote %} hidden{% endunless %}>
+    <blockquote class="random-quote__text mb-3">
+      <p id="random-quote-text" class="mb-0">{{ first_quote.text | escape }}</p>
+    </blockquote>
+    <p class="random-quote__source mb-4"><cite id="random-quote-title">{{ first_quote.book_title | escape }}</cite> — J. Goldenlane</p>
+  </div>
+  <p id="random-quote-empty" role="status"{% if first_quote %} hidden{% endif %}>Jelenleg nincs megjeleníthető idézet. Nézz vissza később!</p>
+  <div id="random-quote-actions" class="random-quote__actions"{% unless first_quote %} hidden{% endunless %}>
+    <a id="random-quote-preview" class="btn btn-primary"{% if first_quote %} href="{{ first_quote.preview_permalink | relative_url | escape }}"{% endif %}>Beleolvasok</a>
+    <button id="random-quote-next" class="btn btn-outline-primary" type="button" disabled>Másik idézet</button>
+  </div>
+  <noscript>
+    <p class="mt-3">Új véletlen idézet választásához engedélyezd a JavaScriptet a böngésződben.</p>
+  </noscript>
+</div>
+
+<div id="random-quote-data" hidden>
+  {% for quote in site.data.quotes %}
+  <div data-quote-record data-preview-url="{{ quote.preview_permalink | relative_url | escape }}">
+    <span data-quote-text>{{ quote.text | escape }}</span>
+    <span data-quote-title>{{ quote.book_title | escape }}</span>
+  </div>
+  {% endfor %}
+</div>
+<script src="{{ '/assets/javascript/random-idezet.js' | relative_url }}" defer></script>
