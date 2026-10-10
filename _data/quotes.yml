@@ -33,3 +33,476 @@
   book_title: "Napnak fénye"
   book_permalink: /konyvek/napnak-fenye/napnak-fenye
   preview_permalink: /konyvek/napnak-fenye/napnak-fenye/beleolvaso
+- id: a-szelhamos-es-a-varazslo-001
+  text: "Kopp, kopp, kopp, platty."
+  book_title: "A szélhámos és a varázsló"
+  book_permalink: "/konyvek/a-szelhamos-es-a-varazslo"
+  preview_permalink: "/konyvek/a-szelhamos-es-a-varazslo/beleolvaso"
+- id: csillagok-szikrai-001
+  text: "Igen, a nevem valóban Nagasawa Mitzuki. A többit tagadom."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-002
+  text: "Alicia majdnem megjegyezte, hogy köszöni, az ő szülei normálisak, aztán belegondolt, és inkább csendben maradt."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-003
+  text: "Hogy őszinte legyek, én még egyetlen, bosszút állni érkező szamurájjal sem beszélgettem hosszan. Általában pár szó után kardot rántottak, és nekem muszáj volt lelőnöm őket."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-004
+  text: "Gyereknek a többség még normális, de ahogy telik az idő, mindenki csak leépül, és közben szert tesz betegebbnél betegebb kényszerképzetekre."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-005
+  text: "– Ha a lábamra lépsz tánc közben, leszúrlak az egyik mérgezett hajtűmmel! – felelte Ticca, és a férfi kérésének megfelelőn édesen rámosolygott."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-006
+  text: "Ha ilyen az élet, hát ezt kell élni!"
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-007
+  text: |-
+    Tényleg, hogy tudnak a felnőttek ilyesmit csinálni?
+    Hogy valaki a nyelvével belenyúl egy másik ember szájába? Ami tele van nyállal, meg a fogak közé ragadt ételmaradékkal, meg más gusztustalanságokkal. Pfuj!
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-008
+  text: |-
+    – De akkor miért nem akarsz hazajönni?
+    – Hova menjek haza? Én ezen az egész Földön teljesen itthon vagyok!
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-009
+  text: "Hova menjek haza? Én ezen az egész Földön teljesen itthon vagyok!"
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-010
+  text: |-
+    – Kérsz egy teát?
+    – Inkább valami idegmérget. Nehéz napom volt.
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-011
+  text: "Ha minden piszlicsáré baromság miatt belekötsz a kamasz gyerekedbe, akkor kikészítitek egymást, mielőtt eléri a nagykorúságot. Hagyd rá!"
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-012
+  text: |-
+    – Neked egy kaszinóba való belépés többet ér az életednél?
+    – Persze! Az nagyon kevés, ha csupán élsz, kell valami, amiért érdemes.
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-013
+  text: |-
+    – Kínai?
+    – Japán.
+    – Az ugyanaz.
+    – Ezt előtte ne említsd, kérlek.
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-014
+  text: "Mindenki úgy hülye a gyerekével, ahogy otthon tanulta."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-015
+  text: "Muszáj felmennünk a csillagok közé, mert ez a Föld kicsi, unalmas, és egy idő után nem marad itt semmi kihívás. Még akkor se, ha a helyzetünket azzal igyekszünk izgalmasabbá tenni, hogy agyonatombombázzuk az egész bolygót."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-016
+  text: |-
+    – Igazán tudhatnád, hogy más nőre, ha rá is nézek, csak azért teszem, hogy lássam, mennyivel klasszabb is vagy te mindegyiknél! Én a te balekod vagyok, és te az enyém, míg a halál el nem választ!
+    – Szívdöglesztően tudsz hazudni!
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-017
+  text: "Nem várhatsz egy életen át arra, hogy tökéletesek legyenek a körülmények. Ha csinálni akarsz valamit, csináld!"
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-018
+  text: "Nincs ütősebb hazugság a megfelelő kontextusban kimondott részigazságnál."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-019
+  text: |-
+    – Te senkit sem akarsz tisztességgel elintézni! A Tigrist sem ölted meg, azt is direkt hagyod, hogy gyilkos japán terroristák maradjanak a nyomunkban, és azzal a félrehuzalozott titkos ügynökkel is állandóan csak haverkodsz.
+    – De az anyámat tényleg lelövöm, ha megint az utamba áll!
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-020
+  text: "Nem tudta eldönteni, hogy a „teázás” jelen esetben méreggel elkövetett gyilkosságot jelent, vagy teázást."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-021
+  text: |-
+    A természetvédelem fontos!
+    Óvd a sivatagot!
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: csillagok-szikrai-022
+  text: "Őfelsége megszokta, hogy ha lövéseket hall, ha a közelében felrobban valami, vagy akárcsak ha kipukkan egy léggömb a teremben, ahol tartózkodik, akkor őt a földre lökik, és ráfekszenek. Ez a császári munka része, épp úgy, mint a mandarinsárga kabát, a végtelen tanácskozások vagy az emlékműavatás."
+  book_title: "Csillagok szikrái"
+  book_permalink: "/konyvek/napnak-fenye/csillagok-szikrai"
+  preview_permalink: "/konyvek/napnak-fenye/csillagok-szikrai/beleolvaso"
+- id: farkastestver-001
+  text: "Ahhoz is lusta voltam, hogy elaludjak."
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-002
+  text: "Ami az egyik oldalról nézve holttest, az a másik oldalról szemlélve vacsora."
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-003
+  text: "…az én erőm a misztikumban, a csodában, a nagy semmiben leledzik; Holdtestvér őrzi ezüst mosolyában, farkasok éjféli vonyításában feszül…"
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-004
+  text: "Bátyuskám, te helyből olyan hülye vagy, mint más nekifutásból!"
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-005
+  text: "Ebben a rengetegben én vagyok az a vadász, akire már nem vadásznak!"
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-006
+  text: "Vállat vonok, és hagyom az életnek, hogy történjen."
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: farkastestver-007
+  text: "Igen, ő Christian, a bátyám, durva becslés szerint kilencven kilónyi színfelelőtlenség, csipetnyi hebehurgyasággal megfűszerezve."
+  book_title: "Farkastestvér"
+  book_permalink: "/konyvek/farkastestver/farkastestver"
+  preview_permalink: "/konyvek/farkastestver/farkastestver/beleolvaso"
+- id: holdnak-arnyeka-002
+  text: "Az emberölés nem tesz jót a kardnak."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-003
+  text: "A nevem Nagasawa Mitzuki. Ha barátként fordulsz felém, erős és hű támaszod leszek minden bajban és veszélyben, ami fenyeget minket. Ha ellenségként közeledsz, akkor harcolni fogok, míg egyikünk meg nem hal."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-004
+  text: "Aki elektromos pisztollyal veszi fel a kapcsolatot a szembejövőkkel, az előbb vagy utóbb, de csúnyán végzi."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-005
+  text: "Amikor eljöttem, a holdfény volt a legszívenütőbb az összes újdonság közül. Annyira értelmetlen! Semmihez sem ad elég világosságot, csak ragyog, önmagáért, és mindent másnak látsz a holdfényben, mint nappal. Mintha megmutatná a tárgyak és az emberek elrejtett arcát, mintha nem is a világban, hanem az árnyékban járnál."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-006
+  text: "Igen, arra esküdött fel, hogy embereket fog menteni. Csak így, általánosan. Mindenféle embereket mindenféle veszélyből. Az esküben nem voltak apró betűs részek, hogy a sokszoros gyilkosokat nem feltétlenül, és amúgy is, munkaidőn túl szünetel az életmentés."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-007
+  text: "Egyszer egy töltetlen elektromos pisztollyal kiraboltam egy ékszerüzletet."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-008
+  text: "Nem, ez egy hivatalnok, az államot képviseli, nem lehet csak úgy megölni! Egy tiszttel szemben udvariasan kell viselkedni, akkor is, ha a szekrényben tartja a rangjelzését."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-009
+  text: "Nem te hallucinálsz engem, hanem én téged!"
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-010
+  text: "No, majd ha megöregednek, akkor majd rájönnek, hogy felesleges volt az a sok aggódás. Persze, ha nem öregednek meg, mert tényleg lelövi őket valaki, nos, akkor volt okuk idegeskedni, de akkor meg nem mindegy?"
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-011
+  text: "Járj a széllel, száguldj a szélviharral, ne aggódj a messzi jövő miatt, és bízz, hogy ismét, újból, és megint szerencséd lesz!"
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-012
+  text: "Megbízhatóan mázlista vagyok."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-013
+  text: |-
+    …ült le a sarkaira a lány a betonfal mellett, szemben a halottal, és önkéntelen, megszokott mozdulattal letörölte a vért a botjától.
+    – Mi bajuk a franciáknak a németekkel?
+    – Fogalmam sincs – vont vállat Sid…
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-014
+  text: "Minden ajánlat annyit ér, mint aki teszi! Neked többet nem hiszek."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-015
+  text: "Minél több ember van a közelben, annál több potenciális balekból választhatjuk ki a nekünk legalkalmasabbat."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-016
+  text: "Nyilvánvalóan, egyértelműen és rohadtul megmentetted az életemet. Tudod hányan fognak ezért gyűlölni téged, ha véletlenül kiderül?"
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-017
+  text: |-
+    Ott álltak a sötétben, egymással szemben, újabb öt halott felett.
+    – Most vigyorogsz? – kérdezte hirtelen Mitzuki.
+    – Nem.
+    – Hazudsz!
+    – Igen.
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-018
+  text: "Sokat levon az ember meggyőzőerejéből, ha az összes öltözete egy maga elé szorított kispárna."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-019
+  text: "Az az igazság, hogy elég sűrű hetem volt. Kinyírtam két-három olaszt, minimum egy németet, és talán pár franciát is, bár ez utóbbiban azért nem vagyok annyira biztos. Te most melyikért reklamálsz?"
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-020
+  text: "Természetesen van tervem. Felidegesítem, előjön, lelövöm. Kész."
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: holdnak-arnyeka-021
+  text: |-
+    Végtelen elégedettséggel kászálódott ki a lezuhant sikló roncsai közül.
+    – Ez volt a héten a legjobb kényszerleszállásom!
+    – Nekem is!
+  book_title: "Holdnak árnyéka"
+  book_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka"
+  preview_permalink: "/konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso"
+- id: isteni-balhe-001
+  text: |-
+    – Aludnék – jegyzem meg célzatosan.
+    – Én is, csak nyom ez a vacak – int körbe, egy laza mozdulatban összefogva a világmindenséget.
+  book_title: "Isteni balhé"
+  book_permalink: "/konyvek/isteni-balhe/isteni-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/isteni-balhe/beleolvaso"
+- id: isteni-balhe-002
+  text: "Az eddigi verekedők átmennek békésen beszélgető piaci árusokba, a háttérben egy rablógyilkos megpróbál úgy tenni, minta csak körömpiszkáláshoz vette volna elő félméteres kését, másoknak most jut eszébe, hogy milyen sok fontos dolguk van, és mennyire messze."
+  book_title: "Isteni balhé"
+  book_permalink: "/konyvek/isteni-balhe/isteni-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/isteni-balhe/beleolvaso"
+- id: isteni-balhe-003
+  text: "No, de az ember tervez, az istenek meg packáznak vele."
+  book_title: "Isteni balhé"
+  book_permalink: "/konyvek/isteni-balhe/isteni-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/isteni-balhe/beleolvaso"
+- id: isteni-balhe-004
+  text: |-
+    – Tulajdonképpen mennyi időre van szükséged, hogy bajba keveredj? – kérdi később.
+    – Bárhol, bármilyen körülmények között képes vagyok öt perc alatt tökéletes káoszt előidézni!
+  book_title: "Isteni balhé"
+  book_permalink: "/konyvek/isteni-balhe/isteni-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/isteni-balhe/beleolvaso"
+- id: isteni-balhe-005
+  text: "Mindig is szerettem nézni az istenek fénylő ékköveit, amit csak és kizárólag az emberek kedvéért szórt el az égen Haksha, a Csillagfényű, hogy azok utat mutassanak a vándoroknak, világítsanak a szerelmes pároknak, és megsúgják a jövőt az ahhoz értő bölcseknek."
+  book_title: "Isteni balhé"
+  book_permalink: "/konyvek/isteni-balhe/isteni-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/isteni-balhe/beleolvaso"
+- id: herceg-josnoje-002
+  text: |-
+    – Én itt most mindenkit békává változtatok!
+    Valószínűleg a lépcsőn való legurulás közben üthettem meg a fejemet az egyik fokon.
+  book_title: "A herceg jósnője"
+  book_permalink: "/konyvek/josido/a-herceg-josnoje"
+  preview_permalink: "/konyvek/josido/a-herceg-josnoje/beleolvaso"
+- id: napnak-fenye-002
+  text: "Attól tartok, a macska átvert minket."
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-003
+  text: "Bizonyos szempontból rettenetes dolog császárnak lenni. Néha kicsit szüneteltetném."
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-004
+  text: "Minek gyűjteni az el nem csókolt csókokat, amikor az ember életében bármelyik nap lehet az utolsó?"
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-005
+  text: "Ezerszer megmondtam, ha téged véletlenül lelő egy merénylő, én hamarabb utasítom el a trónt, mint ahogy a holttested elterül a padlón!"
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-006
+  text: "Felső „A” kategóriájú, különleges státuszú ausztrál titkos ügynök vagyok, aki éppen minősített hazaárulást követ el. Egyéb kérdés?"
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-007
+  text: "Nem az jut legmesszebbre az úton, aki a leggyorsabb, vagy a legszívósabb, hanem aki nem hagyja abba a járást. Ha megállsz, vesztettél. De mindaddig, amíg lépkedsz, van esélyed célba érni. És közben elhagyod mindazokat, akik megálltak, legyenek ők bármennyivel is jobbak nálad."
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: napnak-fenye-008
+  text: "Nincs baj. Mondom, még élünk, ebből még bármi lehet."
+  book_title: "Napnak fénye"
+  book_permalink: "/konyvek/napnak-fenye/napnak-fenye"
+  preview_permalink: "/konyvek/napnak-fenye/napnak-fenye/beleolvaso"
+- id: papirtigris-002
+  text: "Aki repülni tud, az nem örül neki, ha nem hagyják!"
+  book_title: "Papírtigris"
+  book_permalink: "/konyvek/papirtigris"
+  preview_permalink: "/konyvek/papirtigris/beleolvaso"
+- id: papirtigris-003
+  text: |-
+    – Ne hazudj többet! Egy nyelved van, egyszerre csak egy dolgot állíthatsz!
+    – Egy nyelvem van, de szerencsére igen összetett elme áll mögötte, és valahogy elnavigálja az egészet.
+  book_title: "Papírtigris"
+  book_permalink: "/konyvek/papirtigris"
+  preview_permalink: "/konyvek/papirtigris/beleolvaso"
+- id: papirtigris-004
+  text: "A rend még nem baj! A hiba ott van, amikor megváltoztathatatlanná dermednek a szabályok."
+  book_title: "Papírtigris"
+  book_permalink: "/konyvek/papirtigris"
+  preview_permalink: "/konyvek/papirtigris/beleolvaso"
+- id: pokoli-balhe-002
+  text: "A tömeget nem meggyőzni kell, hanem elérni, hogy ne lincseljenek meg!"
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-003
+  text: "– Aú! – csattanok a mellkasának, és ha már ott vagyok, ellopom az erszényét, puszta szórakozásból."
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-004
+  text: "Hátha találkozhatok Aquim ősapa nyughatatlan, kísértő lelkével. Hulla mókás lenne!"
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-005
+  text: "Igen, jól teljesítettünk, vélekedem elégedetten, miközben mogorva zsoldosok toloncolnak el a palota felé az éjszakában, amit vidám fényekkel világít meg a még mindig égő istálló."
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-006
+  text: "Te mondtad állandóan, hogy az igazi lovagfeleségek mindenben segítik a férjüket, támaszt és biztos hátteret nyújtanak nekik az élet viharaiban, kész vacsival, meg kitakarított várral várják őket haza. Azt hiszem, ezt a pici erődöt elfoglalhatom helyette, ez pont egy ilyen úri felségnek való, pöpec kis munka!"
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-007
+  text: "Még hogy én gonosz? Én, aki a palota padlásán macska-menhelyet alapítottam, Q legteljesebb ellenkezésével dacolva!"
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-008
+  text: "Szeretem ezeket a meghitt, barátságos pillanatokat, amikor az ellenség már csak a lábunknál heverő hulla, és a legsürgetőbb kérdés nem az, hogy ki, kivel, hol, és mikor verekszik, hanem hogy mi lesz vacsira?"
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-009
+  text: "Remek, ha a méregkeverő még beszélni akar velem, az fél életbiztosítás."
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: pokoli-balhe-010
+  text: |-
+    – Uram, kegyelmezzen!
+    – Nő vagyok – feleli a Lady, szerintem puszta megszokásból, és leüti.
+  book_title: "Pokoli balhé"
+  book_permalink: "/konyvek/isteni-balhe/pokoli-balhe"
+  preview_permalink: "/konyvek/isteni-balhe/pokoli-balhe/beleolvaso"
+- id: terdig-sarban-002
+  text: "Addig játszol, amíg élsz! Illetve, inkább úgy mondanám, hogy addig élsz, amíg játszol!"
+  book_title: "Térdig sárban"
+  book_permalink: "/konyvek/napnak-fenye/terdig-sarban"
+  preview_permalink: "/konyvek/napnak-fenye/terdig-sarban/beleolvaso"
+- id: terdig-sarban-003
+  text: "Az utolsót, aki beszólt a ruhámra, Csád Beachnél halászták ki a tóból, átvágott torokkal!"
+  book_title: "Térdig sárban"
+  book_permalink: "/konyvek/napnak-fenye/terdig-sarban"
+  preview_permalink: "/konyvek/napnak-fenye/terdig-sarban/beleolvaso"
+- id: terdig-sarban-004
+  text: "Ugye, hogy van az emberben néha ez az érzés, hogy holtan akarja látni a másikat!"
+  book_title: "Térdig sárban"
+  book_permalink: "/konyvek/napnak-fenye/terdig-sarban"
+  preview_permalink: "/konyvek/napnak-fenye/terdig-sarban/beleolvaso"
+- id: terdig-sarban-005
+  text: "Mikor megkérdeztem, hogyan értékeli Villont, mindössze azt mondta, hogy sok jót hallott róla, de sajnos nem ismeri személyesen a fickót."
+  book_title: "Térdig sárban"
+  book_permalink: "/konyvek/napnak-fenye/terdig-sarban"
+  preview_permalink: "/konyvek/napnak-fenye/terdig-sarban/beleolvaso"
+- id: ejfel-002
+  text: "Az idő nem számít, az idő nem létezik!"
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-003
+  text: "Még a legszórakoztatóbb bohóc is unalmassá válik, ahogy a lassan folyó idő lemossa arcáról a festéket."
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-004
+  text: "Tudom, hogyha nem figyelek oda, akkor állandóan elfelejtek lélegezni, pislogni pedig határozottan nem szeretek. Minek akár egy pillanatot is elveszteni a világból?"
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-005
+  text: "Kedves barátom, ez aztán a meglepetés! Mi vitt rá, hogy hozzányúlj a huszadik század eme ördögi csodájához, melyet mi, kései, korcs utódok telefonnak nevezünk?"
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-006
+  text: |-
+    – Hova megyünk?
+    – Tényleg érdekel?
+    – Nem.
+    – Na látod. Dőlj hátra, és élvezd a tempót!
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-007
+  text: "Minden történet végén egy sírkő áll. A kérdés csak az, hogy kié."
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
+- id: ejfel-008
+  text: "Tán meghökkentő, ám mindösszesen csak három vámpírt ismerek."
+  book_title: "Éjfél"
+  book_permalink: "/konyvek/ejfel"
+  preview_permalink: "/konyvek/ejfel/beleolvaso"
