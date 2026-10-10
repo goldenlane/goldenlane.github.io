@@ -3,47 +3,33 @@
   book_title: "A herceg jósnője"
   book_permalink: /konyvek/josido/a-herceg-josnoje
   preview_permalink: /konyvek/josido/a-herceg-josnoje/beleolvaso
-  source_file: _previews/a-herceg-josnoje-reszlet.md
-  source_line: 8
 - id: ejfel-001
   text: "Tán meglepő, ám mindösszesen csak három vámpírt ismerek."
   book_title: "Éjfél"
   book_permalink: /konyvek/ejfel
   preview_permalink: /konyvek/ejfel/beleolvaso
-  source_file: _previews/ejfel-reszlet.md
-  source_line: 7
 - id: holdnak-arnyeka-001
   text: "Én hallucinállak téged, nem te engem!"
   book_title: "Holdnak árnyéka"
   book_permalink: /konyvek/napnak-fenye/holdnak-arnyeka
   preview_permalink: /konyvek/napnak-fenye/holdnak-arnyeka/beleolvaso
-  source_file: _previews/holdnak-arnyeka-reszlet.md
-  source_line: 8
 - id: terdig-sarban-001
   text: "Kislány, de atombomba volt a jele az oviban!"
   book_title: "Térdig sárban"
   book_permalink: /konyvek/napnak-fenye/terdig-sarban
   preview_permalink: /konyvek/napnak-fenye/terdig-sarban/beleolvaso
-  source_file: _previews/terdig-sarban-reszlet.md
-  source_line: 10
 - id: pokoli-balhe-001
   text: "Fejjel lefelé lógok a sötétben."
   book_title: "Pokoli balhé"
   book_permalink: /konyvek/isteni-balhe/pokoli-balhe
   preview_permalink: /konyvek/isteni-balhe/pokoli-balhe/beleolvaso
-  source_file: _previews/pokoli-balhe-reszlet.md
-  source_line: 10
 - id: papirtigris-001
   text: "Pedig, valljuk meg őszintén, uralkodni meglehetősen unalmas dolog."
   book_title: "Papírtigris"
   book_permalink: /konyvek/papirtigris
   preview_permalink: /konyvek/papirtigris/beleolvaso
-  source_file: _previews/papirtigris-reszlet.md
-  source_line: 9
 - id: napnak-fenye-001
   text: "Az idők változnak, ugye."
   book_title: "Napnak fénye"
   book_permalink: /konyvek/napnak-fenye/napnak-fenye
   preview_permalink: /konyvek/napnak-fenye/napnak-fenye/beleolvaso
-  source_file: _previews/napnak-fenye-reszlet.md
-  source_line: 11

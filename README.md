@@ -70,8 +70,6 @@ is megjelenhet. JavaScript nélkül az első idézet és beleolvasója használh
      book_title: "A herceg jósnője"
      book_permalink: /konyvek/josido/a-herceg-josnoje
      preview_permalink: /konyvek/josido/a-herceg-josnoje/beleolvaso
-     source_file: _previews/a-herceg-josnoje-reszlet.md
-     source_line: 8
    ```
 
 2. Adj az egész listában egyedi `id` értéket. Ugyanazon könyv következő
@@ -85,14 +83,21 @@ is megjelenhet. JavaScript nélkül az első idézet és beleolvasója használh
    A „Beleolvasok” mindig az adott könyv létező belső beleolvasójára mutasson.
    Vásárlási oldal és másik könyv részlete nem megfelelő. A linket ne az
    idézetszövegből képezd. Beleolvasó nélküli könyvet még ne adj a listához.
-5. A `source_file` és `source_line` jelölje az idézet visszakereshető forrását.
-   A sorszám később eltolódhat; a szöveg és a forrás azonossága számít.
+5. Kizárólag az öt mezőt használd: `id`, `text`, `book_title`, `book_permalink`,
+   `preview_permalink`. Az idézetnek nem kell szerepelnie a beleolvasóban.
+   A spoilerként vagy cselekményleírásként megjelölt idézeteket hagyd ki.
+   A szöveg legfeljebb 1000 Unicode-karakter lehet, a szóközökkel és a megtartott
+   bekezdéstörésekkel együtt, a YAML-ból beolvasás után mérve. A pontosan 1000
+   karakteres szöveg megengedett; hosszabb szöveget ne rövidíts. Az automatikus
+   sortördelést hagyd figyelmen kívül, és ne másolj Moly-metaadatokat a szövegbe.
+   Könyvenként azonos szöveg csak egyszer szerepeljen, a meglévő rekordokat is
+   figyelembe véve.
 6. YAML-ban szóközökkel húzz be, tabulátort ne használj. Dupla idézőjeles
    szövegben a belső idézőjelet `\"`, a visszaperjelet `\\` alakban írd.
-   Többsoros idézethez `text: |` használható, alatta behúzott sorokkal:
+   Többsoros idézethez `text: |-` használható, alatta behúzott sorokkal:
 
    ```yaml
-     text: |
+     text: |-
        Nekem mindig iszonyú mázlim volt, amikor nem volt szerencsém.
        Tulajdonképpen ez a történet erről szól.
    ```
@@ -100,8 +105,27 @@ is megjelenhet. JavaScript nélkül az első idézet és beleolvasója használh
    A sortörések a megjelenítésben megmaradnak; az idézet szövege nem HTML-kód.
 7. Mentés után ellenőrizd: nincs üres szöveg vagy ismételt ID, a könyvcím és
    mindkét útvonal helyes, a beleolvasó a megadott könyvhöz tartozik, a szöveg
-   szerepel a forrásban. Futtass helyi buildet, majd böngészőben próbáld ki a
+   nem üres és legfeljebb 1000 Unicode-karakter hosszú. Futtasd az idézetellenőrzést
+   és a helyi buildet, majd böngészőben próbáld ki a
    váltást, a beleolvasó-linket és a mobilmenüt.
+
+### Idézetellenőrzések
+
+A repó gyökeréből futtasd:
+
+```powershell
+ruby handoff/tests/validate-quotes.rb
+ruby handoff/tests/quote-schema.test.rb
+node handoff/tests/random-idezet.test.cjs
+bundle exec jekyll build
+bundle exec ruby handoff/tests/quotes-rendered.test.rb
+```
+
+Az adatellenőrzés a YAML-t, az egyedi azonosítókat, az öt kötelező mezőt,
+a nem üres szöveget, az 1000 Unicode-karakteres korlátot és a könyv–beleolvasó
+párosítást vizsgálja. A tesztek ellenőrzik a hosszkorlát határait, a hibás
+adatok elutasítását, a véletlen választást és a build szöveg–cím–link egyezését.
+Az ellenőrzések nem készítenek commitolandó JSON- vagy naplófájlt.
 
 ### Helyi futtatás
 

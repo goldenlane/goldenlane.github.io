@@ -41,6 +41,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - handoff
   - update_boostrap.sh
 
 collections:
